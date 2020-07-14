@@ -36,7 +36,7 @@
 	<title>jiten project template</title>
 </svelte:head>
 
-<h1>Great success!</h1>
+<h1>Great success achive by you only you can !</h1>
 
 <figure>
 	<img alt='Borat' src='great-success.png'>
