@@ -33,7 +33,7 @@
 </style>
 
 <svelte:head>
-	<title>Sapper project template</title>
+	<title>jiten project template</title>
 </svelte:head>
 
 <h1>Great success!</h1>
@@ -43,4 +43,4 @@
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
-<p><strong>Try editing this file (src/routes/index.svelte) to test live reloading.</strong></p>
+<p><strong>hello jitender kaise ho bahul accha lag raha hai.</strong></p>
